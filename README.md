@@ -19,6 +19,11 @@ Installation required : Following libraries to be installed:
 5. import webbrowser
 6. import os
 7. import smtplib
+8. import pyaudio
+9. import pathlib
+10. import calendar
+11. import pyjokes
+12. import psutil
 
 Steps need to be followed for working of programs:
 
